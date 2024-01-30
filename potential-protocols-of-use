@@ -1,0 +1,28 @@
+POTENTIAL Protocols and sites to be used to acheive these market mechanics 
+NFT.io - 
+	$MAD - supply driver 
+	$MAD - reward for staking MBU 
+	ERC20 fractionalization - staking - swapping 
+	populated by CW from floor sweep on looksrare.org to get bananas under .15  and to act as jump start of the ecosystem's moving parts. 
+NFT-RENT -
+	MBU_3d can be inputted into renting pool, to be used within the sandbox p2e game
+	stakers get xMBU as a reward. 
+	xMAD supply driver 
+Coinvise - 
+	pay contributors in $MAD
+	gives value and / utility to $MAD 
+	**gives a way to pay with our NFT but not have to give an entire NFT at once. 
+	i.e. ... if the job is worth 1/4 of what the floor MBU...
+	so instead we pay contributor same value & just issue 0.25$MAD instead (1$MAD=1MBU)
+Snapshot-
+	demand driver for xMAD, 
+	DAO governance 
+	other ulitity voting for xMAD
+Sandbox - 
+	Utlity for MBU_3d
+	Demand driver for MBU_3d (must use a MBU_3d to play)
+	xMAD supply driver (rewards players and stakers)
+	$SAND supply driver 
+		Internal LP of SAND / xMAD
+		(giving value to xMAD from the other side of the economic loop and a basis for the rewards pool))
+-------------------------------------------------------------------------------------------------------------
